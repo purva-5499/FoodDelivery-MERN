@@ -41,7 +41,7 @@ Ensure you have the following installed:
 
 
  Home Page
-
+![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/Home_Page1.png?raw=true)
 
  My Cart
 
