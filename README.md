@@ -3,6 +3,29 @@ Foodie is a modern and responsive food delivery application built using the MERN
 This project is inspired by the End-to-End MERN Stack Playlist by Arshdeep Singh, whose guidance was instrumental in building this app.
 
 
+ Installation and Setup:
+ Prerequisites:
+Ensure you have the following installed:
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/)
+
+
+ Home Page
+![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/Home_Page1.png?raw=true)
+![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/Home_Page2.png?raw=true)
+![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/Home_Page3.png?raw=true)
+
+
+
+ My Cart
+![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/MyCart.png?raw=true)
+
+
+
+My Ordered Data 
+![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/MyOrder.png?raw=true)
+
+
  Features:
  1. User Authentication:
 - Implemented user sign-up and login functionality using JWT (JSON Web Tokens) for secure authentication.
@@ -32,31 +55,6 @@ This project is inspired by the End-to-End MERN Stack Playlist by Arshdeep Singh
  Security - 
 - JWT (JSON Web Tokens): For secure user authentication.
 - bcrypt: For hashing user passwords.
-
-
- Installation and Setup:
- Prerequisites:
-Ensure you have the following installed:
-- [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/)
-
-
-
- Home Page
-![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/Home_Page1.png?raw=true)
-![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/Home_Page2.png?raw=true)
-![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/Home_Page3.png?raw=true)
-
-
-
- My Cart
-![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/MyCart.png?raw=true)
-
-
-
-My Ordered Data 
-![image alt](https://github.com/purva-5499/FoodDelivery-MERN/blob/master/App%20Images/MyOrder.png?raw=true)
-
 
  Credits
 This project was built with the help of the End-to-End MERN Stack Playlist by [Arshdeep Singh](https://www.youtube.com/channel/UCNYhCd8Pv69M2NlJndkFzbg). A huge thanks to him for his excellent guidance and clear explanations.
